@@ -1,1 +1,1 @@
-docker pull prmjunior/conversao-distancia
+docker pull prmjunior/conversao-distancia:v1
